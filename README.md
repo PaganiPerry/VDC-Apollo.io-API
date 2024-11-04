@@ -19,7 +19,7 @@ Since this is an API, this is being used in conjunction with Apollo.io, thus it'
 
 ## Contributing
 
-Guidelines for how others can contribute to the project, such as reporting issues, submitting pull requests, and following coding conventions.
+In order for this code to work, since you'll be connecting/mounting/sharing to Google Drive, you'll need to update ceratin lines of the code, since you'll now be the "creator/owner"
 
 ## License
 
