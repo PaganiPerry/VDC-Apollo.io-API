@@ -15,11 +15,11 @@ GitHub should allow you to access, in the main branch, an option to "Open in Col
 Currently, there are about 13000 contacts in the Engineering Contact List---if you want to keep on adding to that specific file, please download the csv file above. You'll need to then upload that file to Google Drive. The name of the file depends on what you decide to do with the code. Read further into the Contributing portion to learn more.
 
 
-## Usage
+## Usage With Apollo.io
 
 Since this is an API, this is being used in conjunction with Apollo.io, thus it'll be important to remember to check in on rate limits. 
 
-## Contributing
+## Usage of Code
 
 In order for this code to work, since you'll be connecting/mounting/sharing to Google Drive, you'll need to update ceratin lines of the code, since you'll now be the "creator/owner" of the code.
 
