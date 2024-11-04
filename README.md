@@ -26,7 +26,7 @@ In order for this code to work, since you'll be connecting/mounting/sharing to G
 ![image](https://github.com/user-attachments/assets/f5a1375a-b906-4e3d-89b3-c204e43d5a82)
 ![image](https://github.com/user-attachments/assets/1d76c462-4a29-4563-bb1b-a8cf7f466446)
 ![image](https://github.com/user-attachments/assets/4d3366f8-31a1-4b21-bd9f-f8c938a8b16c)
-![image](https://github.com/user-attachments/assets/d56255ff-1172-4030-ad97-c5401e8f6987)
+![image](https://github.com/user-attachments/assets/c73af7c2-2a3c-46f4-90d4-fc3e3e409488)
 
 
 
