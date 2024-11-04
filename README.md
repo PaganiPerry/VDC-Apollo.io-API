@@ -24,6 +24,8 @@ Since this is an API, this is being used in conjunction with Apollo.io, thus it'
 In order for this code to work, since you'll be connecting/mounting/sharing to Google Drive, you'll need to update ceratin lines of the code, since you'll now be the "creator/owner" of the code.
 
 ![image](https://github.com/user-attachments/assets/f5a1375a-b906-4e3d-89b3-c204e43d5a82)
+![image](https://github.com/user-attachments/assets/1d76c462-4a29-4563-bb1b-a8cf7f466446)
+
 
 The reason it is the way it is is because the way I have the following folders and files set up goes as so: 
 1. Shared folder called "VDC Engineering Contacts List" in My Drive (when I say my drive, I literally mean what Google Drive refers to as "My Drive" and not my actual Google Drive", so going forward I will make sure to differentiate them in the explanation).
