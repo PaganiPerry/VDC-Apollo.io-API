@@ -12,6 +12,8 @@ A brief description of your project.
 
 GitHub should allow you to access, in the main branch, an option to "Open in Colab"
 
+Currently, there are about 13000 contacts in the Engineering Contact List---if you want to keep on adding to that specific file, please download the csv file above. You'll need to then upload that file to Google Drive. The name of the file depends on what you decide to do with the code. Read further into the Contributing portion to learn more.
+
 
 ## Usage
 
