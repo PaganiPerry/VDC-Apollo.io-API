@@ -27,6 +27,11 @@ The reason it is the way it is is because the way I have the following folders a
 1. Shared folder called "VDC Engineering Contacts List" in My Drive (when I say my drive, I literally mean what Google Drive refers to as "My Drive" and not my actual Google Drive", so going forward I will make sure to differentiate them in the explanation).
 2. Within the VDC Engineering Contacts List folder, I have document (which is just how Colab created it, but it can be opened as a Sheets file) called Test Engineer Contacts List V1.csv
 
+Line 4 is in charge of simply mounting and connecting to your drive, so no real change needed here.
+
+Next, you'll want to think about whether or not you'll want other to be able to access the CSV you're creating/adding to. 
+
+
 
 
 ## License
