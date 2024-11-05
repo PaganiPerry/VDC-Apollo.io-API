@@ -20,8 +20,10 @@ Currently, there are about 13000 contacts in the Engineering Contact List---if y
 Since this is an API, this is being used in conjunction with Apollo.io, thus it'll be important to remember to check in on rate limits. 
 
 ## Usage of Code
+.
+In order for this code to work, since you'll be connecting/mounting/sharing to Google Drive, you'll need to update ceratin lines of the code, since you'll now be the "creator/owner" of the code. The lines circled in blue are the lines that need to be changed.
 
-In order for this code to work, since you'll be connecting/mounting/sharing to Google Drive, you'll need to update ceratin lines of the code, since you'll now be the "creator/owner" of the code.
+
 ![Main_cell_change](https://github.com/user-attachments/assets/cf7f4832-60db-434e-84d6-090e35f980fe)
 ![if_file_exists_change](https://github.com/user-attachments/assets/6a0ffcd3-be0e-4a3b-83f8-8354e01776ed)
 ![download_df_change](https://github.com/user-attachments/assets/1e55cdf0-9a36-4e6b-b7c3-6ba7805c1c2a)
