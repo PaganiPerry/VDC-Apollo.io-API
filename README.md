@@ -39,8 +39,10 @@ Line 4 is in charge of simply mounting and connecting to your drive, so no real 
 
 Next, you'll want to think about whether or not you'll want other to be able to access the CSV you're creating/adding to. 
 
+There are multiple ways to go about this.
 
 
+##Contribution
 
 ## License
 
