@@ -49,23 +49,31 @@ In order for this code to work, since you'll be connecting/mounting/sharing to G
 
 #### Downloading and using the "Test Engineer Contact List V1.csv":
 
-First start by getting everything set up
-Download the csv to your local disc
-Upload the CSV to Google Drive
-Depending on where you decide to put it in Google Drive, and if you end up changing the name of the file itself, you may need to change the lines of code that are circled in blue to match your file path
-If you plan on putting this in a shared folder, make sure that everyone you are working with has their code set up correctly with their respective file path
+1. **First, start by getting everything set up:**
+   - a. Download the CSV to your local disk.
+   - b. Upload the CSV to Google Drive.
+   - c. Depending on where you decide to put it in Google Drive, *and* if you end up changing the name of the file itself, you may need to change the lines of code that are circled in blue to match your file path.
+     - i. If you plan on putting this in a shared folder, make sure that everyone you are working with has their code set up correctly with their respective file path.
+     - ii.
+   - d. For example, if you decide to change the name of the file to "New Engineering Contact List" and you put it in a file in My Drive called "Engineering Project," the lines of code in blue might look like this:
+     - iii. `/content/drive/My Drive/Engineering Project/New Engineering Contact List.csv`
+   - e. If you decide to keep it the same, you shouldn’t need to change anything about the code.
 
-For example, if you decide to change the name of the file to "New Engineering Contact List" and you put it in a file in My Drive called "Engineering Project", the lines of code in blue might look like this:
-"/content/drive/My Drive/Engineering Project/New Engineering Contact List.csv"
-If you decide to keep it the same, you shouldn't need to change anything about the code.
-Once everything is set up, start by running the first cell by clicking Shift + Enter or by pressing the small grey play button to the left of the cell.
-Next, run the next cell, which is the "Main cell". This is where all the action happens. When you run it, it'll prompt you to connect to Google Drive---you'll need to allow it access to everything (I know it sounds a little sus but if you don't the cell won't run---I've tried).
-Once you click through everything, you'll be able to enter a company website into the input box. Once you've typed in a domain, you can simply click Enter and it'll complete running the cell.
-It may take a little, especially if you've increased num_pages (which is fine) and/or added additional terms to the titles list (which is also fine).
-Once it's finished running, it'll tell you a bunch of information on how much it found. Considering what it says can be confusing sometimes, it's best and easiest to just check to make sure everything was added. This is done by running the next cell and then going to your drive and the location where you stored the file.
-Check the file to see if anything has been updated. Sometimes it runs, but not everything is added. In this case, just continue on and try some other companies.
-Running the next cell will allow you to download a version of the CSV to your local drive if you decide to you.
-Running the last cell will show you a graph of the most common titles.
+2. **Once everything is set up**, start by running the first cell by clicking **Shift + Enter** or by pressing the small grey play button to the left of the cell.
+
+3. **Next, run the next cell**, which is the "Main cell". This is where all the action happens. When you run it, it'll prompt you to connect to Google Drive—you’ll need to allow it access to everything (I know it sounds a little sus but if you don’t the cell won’t run—I’ve tried).
+
+4. Once you click through everything, you'll be able to enter a company website into the input box. Once you've typed in a domain, you can simply click Enter and it'll complete running the cell.
+
+5. It may take a little, especially if you've increased `num_pages` (which is fine) and/or added additional terms to the titles list (which is also fine).
+
+6. Once it's finished running, it'll tell you a bunch of information on how much it found. Considering what it says can be confusing sometimes, it's best and easiest to just check to make sure everything was added. This is done by running the next cell and then going to your drive and the location where you stored the file.
+
+7. Check the file to see if anything has been updated. Sometimes it runs, but not everything is added. In this case, just continue on and try some other companies.
+
+8. Running the next cell will allow you to download a version of the CSV to your local drive if you decide to.
+
+9. Running the last cell will show you a graph of the most common titles.
 
 
 
