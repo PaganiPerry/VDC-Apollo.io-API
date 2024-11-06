@@ -67,7 +67,6 @@ However, in order for this code to work, since you'll be connecting/mounting/sha
    - b. Upload the CSV to Google Drive.
    - c. Depending on where you decide to put it in Google Drive, *and* if you end up changing the name of the file itself, you may need to change the lines of code that are circled in blue to match your file path.
      - i. If you plan on putting this in a shared folder, make sure that everyone you are working with has their code set up correctly with their respective file path.
-     - ii.
    - d. For example, if you decide to change the name of the file to "New Engineering Contact List" and you put it in a file in My Drive called "Engineering Project," the lines of code in blue might look like this:
      - iii. `/content/drive/My Drive/Engineering Project/New Engineering Contact List.csv`
    - e. If you decide to keep it the same, you shouldn’t need to change anything about the code.
