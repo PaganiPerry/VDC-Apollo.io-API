@@ -37,14 +37,23 @@ In order for this code to work, since you'll be connecting/mounting/sharing to G
 
 #### Starting from scratch:
 
-1. You'll want to create a folder in Google Drive
-2. Make sure you make any changes to the folder now before you run the code because you'll need to redo some of it if you end up moving the location of the folder/file in Drive after
+1. You’ll want to create a folder in Google Drive.
+
+2. Make sure you make any changes to the folder now before you run the code because you’ll need to redo some of it if you end up moving the location of the folder/file in Drive after.
+
 3. You do not need to create the actual CSV file since it is initialized once you run the code for the first time.
-4. Run the first code cell by clicking Shift + Enter or by pressing the small grey play button to the left of the cell.
-5. Before you go any further, you'll want to think of what folder, if any, you'll want the file to be in and you'll want to think of a name for the file. By default, it's set to what I had my path and file name as. ("/content/drive/My Drive/VDC Engineering Contacts List/Test Engineer Contact List V1.csv"). For example, if you want to create a folder called Apollo Contact Lists and you want the file to be named My First Contact List, your file path might look something like this: "/content/drive/My Drive/Apollo Contact List/My First Contact List.csv
-6. Once you figure out the naming conventions and have successfully updated each of the lines of code, the ones circled in blue, run the Main cell. In the main cell it will prompt you to connect to drive---allow everything and continue.
-7. Once that's done, you can input a companies website into the input box. If you do not and you click enter, it will default to the VDC Website.
-8. Once the Main cell is done, you'll want to run the next one, which displays a list of companies that you have already added to the DF.
+
+4. Run the first code cell by clicking **Shift + Enter** or by pressing the small grey play button to the left of the cell.
+
+5. Before you go any further, you’ll want to think of what folder, if any, you’ll want the file to be in and you’ll want to think of a name for the file. By default, it’s set to what I had my path and file name as. (`/content/drive/My Drive/VDC Engineering Contacts List/Test Engineer Contact List V1.csv`)
+   - a. For example, if you want to create a folder called Apollo Contact Lists and you want the file to be named My First Contact List, your file path might look something like this: `/content/drive/My Drive/Apollo Contact List/My First Contact List.csv`
+
+6. Once you figure out the naming conventions and have successfully updated each of the lines of code, the ones circled in blue, run the Main cell.
+   - b. In the main cell it will prompt you to connect to drive---allow everything and continue.
+
+7. Once that’s done, you can input a company's website into the input box. If you do not and you click enter, it will default to the VDC Website.
+
+8. Once the Main cell is done, you’ll want to run the next one, which displays a list of companies that you have already added to the DF.
 
 
 #### Downloading and using the "Test Engineer Contact List V1.csv":
