@@ -19,6 +19,17 @@ Currently, there are about 13000 contacts in the Engineering Contact List---if y
 
 Since this is an API, this is being used in conjunction with Apollo.io, thus it'll be important to remember to check in on rate limits. 
 
+![image](https://github.com/user-attachments/assets/86c8af5e-b063-49dc-ae78-3e85282e128f)
+
+![image](https://github.com/user-attachments/assets/2e62333e-a019-40df-b353-e66bf5b21459)
+
+![image](https://github.com/user-attachments/assets/59f2b902-f573-4d22-8d47-dc9f43cbc475)
+
+![image](https://github.com/user-attachments/assets/8c218240-f911-4a03-a9d2-495acce6c3ec)
+
+
+
+
 ## Usage of Code
 
 There are two main ways to start out here and they are listed below. You can decide which approach you would like to use.
