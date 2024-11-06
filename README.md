@@ -25,6 +25,7 @@ First, locate to the "settings" icon in the bottom left hand corner and click on
 Navigate to the "Integrations" tab by either searching API in the search bar or by simply navigating to the integrations tab. 
 ![image](https://github.com/user-attachments/assets/2e62333e-a019-40df-b353-e66bf5b21459)
 
+Once you're in the integrations tab, navgiate to the API tab and click on it.
 ![image](https://github.com/user-attachments/assets/59f2b902-f573-4d22-8d47-dc9f43cbc475)
 
 ![image](https://github.com/user-attachments/assets/8c218240-f911-4a03-a9d2-495acce6c3ec)
