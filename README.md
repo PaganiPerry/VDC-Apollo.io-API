@@ -28,6 +28,7 @@ Navigate to the "Integrations" tab by either searching API in the search bar or 
 Once you're in the integrations tab, navgiate to the API tab and click on it.
 ![image](https://github.com/user-attachments/assets/59f2b902-f573-4d22-8d47-dc9f43cbc475)
 
+Navigate to the "usage" tab and there you'll be able to track how many calls you have. 
 ![image](https://github.com/user-attachments/assets/8c218240-f911-4a03-a9d2-495acce6c3ec)
 
 
