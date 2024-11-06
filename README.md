@@ -22,7 +22,7 @@ Since this is an API, this is being used in conjunction with Apollo.io, thus it'
 First, locate to the "settings" icon in the bottom left hand corner and click on it.
 ![image](https://github.com/user-attachments/assets/86c8af5e-b063-49dc-ae78-3e85282e128f)
 
-
+Navigate to the "Integrations" tab by either searching API in the search bar or by simply navigating to the integrations tab. 
 ![image](https://github.com/user-attachments/assets/2e62333e-a019-40df-b353-e66bf5b21459)
 
 ![image](https://github.com/user-attachments/assets/59f2b902-f573-4d22-8d47-dc9f43cbc475)
