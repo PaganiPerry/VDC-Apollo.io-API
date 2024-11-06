@@ -21,7 +21,9 @@ Since this is an API, this is being used in conjunction with Apollo.io, thus it'
 
 ## Usage of Code
 
-In order for this code to work, since you'll be connecting/mounting/sharing to Google Drive, you'll need to update ceratin lines of the code, since you'll now be the "creator/owner" of the code. The lines circled in blue are the lines that need to be changed.
+There are two main ways to start out here and they are listed below. You can decide which approach you would like to use.
+
+In order for this code to work, since you'll be connecting/mounting/sharing to Google Drive, you'll need to update ceratin lines of the code, since you'll now be the "creator/owner" of the code. The lines circled in blue are the lines that need to be changed, theoretically, regardless of what option you choose (read more on this below).
 
 
 ![Main_cell_change](https://github.com/user-attachments/assets/cf7f4832-60db-434e-84d6-090e35f980fe)
@@ -47,7 +49,7 @@ Once that's done, you can input a companies website into the input box. If you d
 Once the Main cell is done, you'll want to run the next one, which displays a list of companies that you have already added to the DF.
 
 
-Downloading and using the "Test Engineer Contact List V1.csv"
+#### Downloading and using the "Test Engineer Contact List V1.csv"
 
 First start by getting everything set up
 Download the csv to your local disc
