@@ -43,6 +43,7 @@ However, in order for this code to work, since you'll be connecting/mounting/sha
 ![Main_cell_change](https://github.com/user-attachments/assets/cf7f4832-60db-434e-84d6-090e35f980fe)
 
 ![input_change](https://github.com/user-attachments/assets/eb9a791b-26de-48a2-afb2-8c84e9fb8e41)
+This is where you will be entering in the company (or companies) domain. If you want to add more than one company at once, separate the domains with commas (.com, .com, .com, etc). 
 
 ![if_file_exists_change](https://github.com/user-attachments/assets/6a0ffcd3-be0e-4a3b-83f8-8354e01776ed)
 
@@ -89,7 +90,7 @@ However, in order for this code to work, since you'll be connecting/mounting/sha
 
 3. **Next, run the next cell**, which is the "Main cell". This is where all the action happens. When you run it, it'll prompt you to connect to Google Drive—you’ll need to allow it access to everything (I know it sounds a little sus but if you don’t the cell won’t run—I’ve tried).
 
-4. Once you click through everything, you'll be able to enter a company website into the input box. Once you've typed in a domain, you can simply click Enter and it'll complete running the cell.
+4. Once you click through everything, you'll be able to enter a company website into the input box. Once you've typed in a domain, you can simply click Enter and it'll complete running the cell (mentioned above and highlighted in the yellow circle in the screeshot).
 
 5. It may take a little, especially if you've increased `num_pages` (which is fine) and/or added additional terms to the titles list (which is also fine).
 
