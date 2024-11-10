@@ -35,15 +35,18 @@ Navigate to the "usage" tab and there you'll be able to track how many calls you
 
 ## Usage of Code
 
+Terms: 
+1. Cell = Jupyter Notebooks are made up of instances/sequences of cells---these are the multiline input fields where you put your code
+
 There are two main ways to start out here and they are listed below. You can decide which approach you would like to use.
 
-However, in order for this code to work, since you'll be connecting/mounting/sharing to Google Drive, you'll need to update ceratin lines of the code, since you'll now be the "creator/owner" of the code. The lines circled in blue are the lines that need to be changed, theoretically, regardless of what option you choose (read more on this below).
+However, in order for this code to work, since you'll be connecting/mounting/sharing to Google Drive, you'll need to update ceratin lines of the code, since you'll now be the "creator/owner" of the code. The lines circled in blue are the lines that need to be changed (unless you decide to keep the name, but you will read about that below).
 
 
 ![Main_cell_change](https://github.com/user-attachments/assets/cf7f4832-60db-434e-84d6-090e35f980fe)
 
 ![input_change](https://github.com/user-attachments/assets/eb9a791b-26de-48a2-afb2-8c84e9fb8e41)
-This is, above, where you will be entering in the company (or companies) domain. If you want to add more than one company at once, separate the domains with commas (.com, .com, .com, etc). 
+Above: where you will be entering in the company (or companies) domain. If you want to add more than one company at once, separate the domains with commas (.com, .com, .com, etc). 
 
 ![if_file_exists_change](https://github.com/user-attachments/assets/6a0ffcd3-be0e-4a3b-83f8-8354e01776ed)
 
@@ -54,15 +57,15 @@ This is, above, where you will be entering in the company (or companies) domain.
 ![titles_pages_change](https://github.com/user-attachments/assets/155fe6ec-0a08-48f3-bfdc-f70218db6ba1)
 
 
-#### OPTION 1 - STARTING FROM SCRATCH:
+#### OPTION 1 - STARTING FROM SCRATCH (CREATING YOUR OWN NEW CSV FILE IN A NEW OR EXISTING FOLDER):
 
 1. You’ll want to create a folder in Google Drive.
 
 2. Make sure you make any changes to the folder now before you run the code because you’ll need to redo some of it if you end up moving the location of the folder/file in Drive after.
 
-3. You do not need to create the actual CSV file since it is initialized once you run the code for the first time.
+3. Note that you DO NOT need to create the actual CSV file in Drive since it will be initialized once you run the code for the first time.
 
-4. Run the first code cell by clicking **Shift + Enter** or by pressing the small grey play button to the left of the cell.
+4. Run the first cell by clicking **Shift + Enter** or by pressing the small grey play button to the left of the cell.
 
 5. Before you go any further, you’ll want to think of what folder, if any, you’ll want the file to be in and you’ll want to think of a name for the file. By default, it’s set to what I had my path and file name as. (`/content/drive/My Drive/VDC Engineering Contacts List/Test Engineer Contact List V1.csv`)
    - a. For example, if you want to create a folder called Apollo Contact Lists and you want the file to be named My First Contact List, your file path might look something like this: `/content/drive/My Drive/Apollo Contact List/My First Contact List.csv`
