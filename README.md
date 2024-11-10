@@ -37,6 +37,7 @@ Below: Navigate to the "usage" tab and there you'll be able to track how many ca
 
 Terms: 
 1. Cell = Jupyter Notebooks are made up of instances/sequences of cells---these are the multiline input fields where you put your code
+2. Calls = also known as an API request---a message sent to a server to request information or a service; there are limits to how many you can make in an alotted time
 
 There are two main ways to start out here and they are listed below. You can decide which approach you would like to use.
 
@@ -44,15 +45,19 @@ However, in order for this code to work, since you'll be connecting/mounting/sha
 
 
 ![Main_cell_change](https://github.com/user-attachments/assets/cf7f4832-60db-434e-84d6-090e35f980fe)
+Above (main cell/2nd cell)
 
 ![input_change](https://github.com/user-attachments/assets/eb9a791b-26de-48a2-afb2-8c84e9fb8e41)
 Above: where you will be entering in the company (or companies) domain. If you want to add more than one company at once, separate the domains with commas (.com, .com, .com, etc). 
 
 ![if_file_exists_change](https://github.com/user-attachments/assets/6a0ffcd3-be0e-4a3b-83f8-8354e01776ed)
+Above (3rd cell)
 
 ![download_df_change](https://github.com/user-attachments/assets/1e55cdf0-9a36-4e6b-b7c3-6ba7805c1c2a)
+Above (4th cell)
 
 ![graph_change](https://github.com/user-attachments/assets/53af68e5-76a4-425b-8e5a-031b993995dc)
+Above (5th cell)
 
 ![titles_pages_change](https://github.com/user-attachments/assets/155fe6ec-0a08-48f3-bfdc-f70218db6ba1)
 
