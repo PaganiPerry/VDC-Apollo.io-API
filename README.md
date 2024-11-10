@@ -54,7 +54,7 @@ This is, above, where you will be entering in the company (or companies) domain.
 ![titles_pages_change](https://github.com/user-attachments/assets/155fe6ec-0a08-48f3-bfdc-f70218db6ba1)
 
 
-#### Starting from scratch:
+#### OPTION 1 - STARTING FROM SCRATCH:
 
 1. You’ll want to create a folder in Google Drive.
 
@@ -75,7 +75,7 @@ This is, above, where you will be entering in the company (or companies) domain.
 8. Once the Main cell is done, you’ll want to run the next one, which displays a list of companies that you have already added to the DF.
 
 
-#### Downloading and using the "Test Engineer Contact List V1.csv":
+#### OPTION 2 - DOWNLOADING AND USING THE "Test Engineer Contact List v1.csv":
 
 1. **First, start by getting everything set up:**
    - a. Download the CSV to your local disk.
