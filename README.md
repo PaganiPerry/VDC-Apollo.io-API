@@ -51,10 +51,12 @@ Above (main cell/2nd cell)
 Above: where you will be entering in the company (or companies) domain. If you want to add more than one company at once, separate the domains with commas (.com, .com, .com, etc). 
 
 ![if_file_exists_change](https://github.com/user-attachments/assets/6a0ffcd3-be0e-4a3b-83f8-8354e01776ed)
-Above (3rd cell)
+Above: 3rd cell
+
 
 ![download_df_change](https://github.com/user-attachments/assets/1e55cdf0-9a36-4e6b-b7c3-6ba7805c1c2a)
 Above (4th cell)
+
 
 ![graph_change](https://github.com/user-attachments/assets/53af68e5-76a4-425b-8e5a-031b993995dc)
 Above (5th cell)
