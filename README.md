@@ -43,27 +43,26 @@ There are two main ways to start out here and they are listed below. You can dec
 
 However, in order for this code to work, since you'll be connecting/mounting/sharing to Google Drive, you'll need to update ceratin lines of the code, since you'll now be the "creator/owner" of the code. The lines circled in blue are the lines that need to be changed (unless you decide to keep the name, but you will read about that below).
 
-
-![Main_cell_change](https://github.com/user-attachments/assets/cf7f4832-60db-434e-84d6-090e35f980fe)
-Above (main cell/2nd cell)
-
-
-![input_change](https://github.com/user-attachments/assets/eb9a791b-26de-48a2-afb2-8c84e9fb8e41)
-Above: where you will be entering in the company (or companies) domain. If you want to add more than one company at once, separate the domains with commas (.com, .com, .com, etc). 
-
-
-![if_file_exists_change](https://github.com/user-attachments/assets/6a0ffcd3-be0e-4a3b-83f8-8354e01776ed)
-Above: 3rd cell
-
-
-![download_df_change](https://github.com/user-attachments/assets/1e55cdf0-9a36-4e6b-b7c3-6ba7805c1c2a)
-Above (4th cell)
-
-
-![graph_change](https://github.com/user-attachments/assets/53af68e5-76a4-425b-8e5a-031b993995dc)
-Above (5th cell)
-
+Below: Main Cell (2nd cell) where you can change the postions and the number of pages being queried into the API
 ![titles_pages_change](https://github.com/user-attachments/assets/155fe6ec-0a08-48f3-bfdc-f70218db6ba1)
+
+
+Below: Main Cell (2nd cell)
+![Main_cell_change](https://github.com/user-attachments/assets/cf7f4832-60db-434e-84d6-090e35f980fe)
+
+Below: where you will be entering in the company (or companies) domain. If you want to add more than one company at once, separate the domains with commas (.com, .com, .com, etc). 
+![input_change](https://github.com/user-attachments/assets/eb9a791b-26de-48a2-afb2-8c84e9fb8e41)
+
+Below: 3rd cell
+![if_file_exists_change](https://github.com/user-attachments/assets/6a0ffcd3-be0e-4a3b-83f8-8354e01776ed)
+
+Below: 4th cell
+![download_df_change](https://github.com/user-attachments/assets/1e55cdf0-9a36-4e6b-b7c3-6ba7805c1c2a)
+
+Below: 5th cell
+![graph_change](https://github.com/user-attachments/assets/53af68e5-76a4-425b-8e5a-031b993995dc)
+
+
 
 
 #### OPTION 1 - STARTING FROM SCRATCH (CREATING YOUR OWN NEW CSV FILE IN A NEW OR EXISTING FOLDER):
