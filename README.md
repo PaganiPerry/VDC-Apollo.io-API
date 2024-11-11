@@ -76,7 +76,7 @@ Below: 5th cell
 4. Run the first cell by clicking **Shift + Enter** or by pressing the small grey play button to the left of the cell.
 
 5. Before you go any further, you’ll want to think of what folder, if any, you’ll want the file to be in and you’ll want to think of a name for the file. By default, it’s set to what I had my path and file name as. (`/content/drive/My Drive/VDC Engineering Contacts List/Test Engineer Contact List V1.csv`)
-   - a. For example, if you want to create a folder called Apollo Contact Lists and you want the file to be named My First Contact List, your file path might look something like this: `/content/drive/My Drive/Apollo Contact List/My First Contact List.csv`
+   - a. For example, if you want to create a folder called Apollo Contact Lists and you want the file to be named My First Contact List, your file path might look something like this (but remember to make the folder in your desired drive location beforehand): `/content/drive/My Drive/Apollo Contact List/My First Contact List.csv`
 
 6. Once you figure out the naming conventions and have successfully updated each of the lines of code, the ones circled in blue, run the Main cell.
    - b. In the main cell it will prompt you to connect to drive---allow everything and continue.
