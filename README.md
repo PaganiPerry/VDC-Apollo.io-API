@@ -107,11 +107,11 @@ Below: 5th cell
 
 6. Once it's finished running, it'll tell you a bunch of information on how much it found. Considering what it says can be confusing sometimes, it's best and easiest to just check to make sure everything was added. This is done by running the next cell and then going to your drive and the location where you stored the file.
 
-7. Check the file to see if anything has been updated. Sometimes it runs, but not everything is added. In this case, just continue on and try some other companies.
+7. Check the file to see if anything has been updated. Sometimes it runs, but not everything is added, such as emails or names. In this case, just continue on and try some other companies and come back to it later.
 
-8. Running the next cell will allow you to download a version of the CSV to your local drive if you decide to.
+8. Running the next cell (4th cell) will allow you to download a version of the CSV to your local drive if you decide to.
 
-9. Running the last cell will show you a graph of the most common titles.
+9. Running the last cell (5th cell) will show you a graph of the most common titles. Note that it'll most likley be "Software Engineer", but it's still nice to see the spread of titles researched.
 
 
 
