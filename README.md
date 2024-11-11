@@ -80,7 +80,7 @@ Below: 5th cell
 
 4. Run the first cell by clicking **Shift + Enter** or by pressing the small grey play button to the left of the cell.
 
-5. Before you go any further, you’ll want to think of what folder, if any, you’ll want the file to be in and you’ll want to think of a name for the file. By default, it’s set to what I had my path and file name as. (`/content/drive/My Drive/VDC Engineering Contacts List/Test Engineer Contact List V1.csv`)
+5. Before you go any further, you’ll want to think of what folder, if any, you’ll want the file to be in and you’ll want to think of a name for the file. By default, it’s set to what I had my path and file name as. (`/content/drive/My Drive/Apollo API Demo Folder/Apollo Demo.csv`)
    - a. For example, if you want to create a folder called Apollo Contact Lists and you want the file to be named My First Contact List, your file path might look something like this (but remember to make the folder in your desired drive location beforehand): `/content/drive/My Drive/Apollo Contact List/My First Contact List.csv`
 
 6. Once you figure out the naming conventions and have successfully updated each of the lines of code, the ones circled in blue, run the Main cell.
@@ -94,13 +94,12 @@ Below: 5th cell
 #### OPTION 2 - DOWNLOADING AND USING THE "Test Engineer Contact List v1.csv":
 
 1. **First, start by getting everything set up:**
-   - a. Download the CSV to your local disk.
+   - a. Download the CSV to your local disk (Test Engineer Contact List V1 (10).csv).
    - b. Upload the CSV to Google Drive.
    - c. Depending on where you decide to put it in Google Drive, *and* if you end up changing the name of the file itself, you may need to change the lines of code that are circled in blue to match your file path.
      - i. If you plan on putting this in a shared folder, make sure that everyone you are working with has their code set up correctly with their respective file path.
    - d. For example, if you decide to change the name of the file to "New Engineering Contact List" and you put it in a file in My Drive called "Engineering Project," the lines of code in blue might look like this:
      - iii. `/content/drive/My Drive/Engineering Project/New Engineering Contact List.csv`
-   - e. If you decide to keep it the same, you shouldn’t need to change anything about the code.
 
 2. **Once everything is set up**, start by running the first cell by clicking **Shift + Enter** or by pressing the small grey play button to the left of the cell.
 
