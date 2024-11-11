@@ -8,7 +8,9 @@ A brief description of your project.
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
+## Installation using Demo_Apollo_io_automation.ipynb file
+
+Please use the above file and NOT Perry's copy
 
 GitHub should allow you to access, in the main branch, an option to "Open in Colab"
 
