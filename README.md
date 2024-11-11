@@ -88,10 +88,10 @@ Below: 5th cell
 
 7. Once that’s done, you can input a company's website into the input box. If you do not and you click enter, it will default to the VDC Website.
 
-8. Once the Main cell is done, you’ll want to run the next one, which displays a list of companies that you have already added to the DF.
+8. Once the main cell (the second cell) is done, you’ll want to run the next one, which displays a list of companies that you have already added to the DF. This just helps you visualize what companies you've added. 
 
 
-#### OPTION 2 - DOWNLOADING AND USING THE "Test Engineer Contact List v1.csv":
+#### OPTION 2 - DOWNLOADING AND USING THE "Test Engineer Contact List v1.csv" (mainly for IoT & Embedded Tech Team):
 
 1. **First, start by getting everything set up:**
    - a. Download the CSV to your local disk (Test Engineer Contact List V1 (10).csv).
